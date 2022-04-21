@@ -18,6 +18,7 @@ public class TipoDatosJava
         String s = "UIS SOCORRO";
         int[] a= new int[12];
         Punto p1 = new Punto(2,3);
+        System.out.println("Tipos de datos primitivos: ");
         System.out.println(p1);
 
 
