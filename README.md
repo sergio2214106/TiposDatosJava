@@ -45,4 +45,4 @@
 * Caracteriza una instancia de clase, es decir la direccion de donde esta el objeto.
 * Contiene la direccion de un objeto, cuyo valor por defecto es null.
 * Durante una prueba e igualdad entre dos variables, son las direcciones de los objetos lo que se compara y no el contenido de los objetos en si mismos.
-* Cuando se una referencia como argumento de un metodo es la direccion del objeto lo que se pasa, y no el objeo en si mismo.
+* Cuando se una referencia como argumento de un metodo es la direccion del objeto lo que se pasa, y no el objeto en si mismo.
